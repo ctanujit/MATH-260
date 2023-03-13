@@ -14,3 +14,4 @@ Course Website: https://www.ctanujit.org/mda.html
 The details of the courses are given below:
 
 Week-1: Introduction to the MDA Course + Reap of Descriptive Statistics + Introduction to RStudio (Practicals using datasets)
+Week-2:
