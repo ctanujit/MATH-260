@@ -19,7 +19,5 @@ Slides, Data, and Codes are available under the *Practical Slides and Codes* fol
 
 In case you want to recap the basics of probability and statistics, check *Basic Probability and Statistics (Recap)* folder. 
 
-Happy Learning!
-
-Share your feedback at ctanujit@gmail.com
+Happy Learning! Share your feedback at ctanujit@gmail.com
 
