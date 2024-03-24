@@ -7,8 +7,6 @@ Faculty Name: Dr. Tanujit Chakraborty, Assistant Professor of Statistics at Sorb
 
 Timeline : January 2024 to April 2024 | Total Teaching : 45 Sessions (20 Theory + 5 Tutorials + 20 Practicals)
 
-Email: tanujit.chakraborty@sorbonne.ae
-
 Course Website: https://www.ctanujit.org/mda.html
 
 The details of the courses are given below:
@@ -18,4 +16,10 @@ Theoretical class notes (written on boards) are available under the folder *Hand
 Tutorial Exercises are available under the folder *Tutorial Worksheets*
 
 Slides, Data, and Codes are available under the *Practical Slides and Codes* folders.  
+
+In case you want to recap the basics of probability and statistics, check *Basic Probability and Statistics (Recap)* folder. 
+
+Happy Learning!
+
+Share your feedback at ctanujit@gmail.com
 
