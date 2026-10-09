@@ -1,6 +1,6 @@
 # MATH-260 (Multivariate Data Analysis)
 
-![Poster](https://github.com/ctanujit/MATH-260/blob/main/MDA_Banner.png)
+![Poster](https://github.com/ctanujit/MATH-260/blob/main/MDA-Banner.png)
 
 Course Name: Multivariate Data Analysis (MDA)
 
