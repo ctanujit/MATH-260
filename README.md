@@ -1,4 +1,7 @@
 # MATH-260 (Multivariate Data Analysis)
+
+![Poster](https://github.com/ctanujit/MATH-260/blob/main/MDA_Poster.png)
+
 Course Name: Multivariate Data Analysis (MDA)
 
 Participants: BSc Mathematics and Data Science students of Sorbonne University
