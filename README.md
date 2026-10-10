@@ -54,17 +54,25 @@ Happy Learning! Share your feedback at ctanujit@gmail.com
 **Textbooks and References:**
 
 • Friedman J, Hastie T, Tibshirani R. (2017). The Elements of Statistical Learning. Springer series in statistics. Link: web.stanford.edu/~hastie/ElemStatLearn/
+
 ​• Gareth, J, Witten D, Hastie T, and Tibshirani R. (2021). An introduction to statistical learning: with applications in R. Springer. Link: https://www.statlearning.com/
+
 • Rencher, A.C. and Christensen, W.F. (2012). Methods of Multivariate Analysis. 3rd Edition. An Introduction to Stochastic Modeling. Wiley.  
+
 • Wickham, H. and Garrett, G. (2016). R for Data Science. O'Reilly Media, Inc. 
+
 • Healy, Kieran. Data visualization: a practical introduction. (2018). Princeton University Press. 
 
 **Some Interesting Papers For Reading:**
 
 • The Two Cultures - Statistical Modeling: The Two Cultures (2001): doi.org/10.1214/ss/1009213726
+
 • Data Science - 50 Years of Data Science​ (2017): https://www.tandfonline.com/doi/full/10.1080/10618600.2017.1384734
+
 • Future - The future of statistics and data science (2018): https://www.sciencedirect.com/science/article/pii/S0167715218300877
+
 • ​Statistics Vs Machine Learning - Prediction, Estimation, and Attribution (2020): https://statprize.org/pdfs/materials/2019Efron-presentation.pdf
+
 • Statistics - What are the most important statistical ideas of the past 50 years? (2021): https://arxiv.org/pdf/2012.00174
 
 ![Banner](https://github.com/ctanujit/MATH-260/blob/main/websites.png)
