@@ -6,11 +6,9 @@ Course Name: Multivariate Data Analysis (MDA)
 
 Participants: BSc Mathematics and Data Science students of Sorbonne University
 
-Faculty Name: Dr. Tanujit Chakraborty, Assistant Professor of Statistics at Sorbonne University and Sorbonne Center for AI (SCAI)
+Faculty Name: Dr. Tanujit Chakraborty, Assistant Professor of Statistics at Sorbonne University AD and Sorbonne Center for AI (SCAI)
 
-Timeline : January 2024 to April 2024 | Total Teaching : 45 Sessions (20 Theory + 5 Tutorials + 20 Practicals)
-
-Course Website: https://www.ctanujit.org/mda.html
+Timeline : January to May | Total Teaching : 45 Sessions (20 Theory + 5 Tutorials + 20 Practicals)
 
 The details of the courses are given below:
 
