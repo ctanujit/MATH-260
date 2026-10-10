@@ -24,3 +24,5 @@ In case you want to recap the basics of probability and statistics, check *Basic
 
 Happy Learning! Share your feedback at ctanujit@gmail.com
 
+![Banner](https://github.com/ctanujit/MATH-260/blob/main/Websites.png)
+
